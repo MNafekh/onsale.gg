@@ -1,1 +1,23 @@
-# onsale.gg is a service that allows you to see when skins were last on sale and how likely they are to be on sale in the near future.
+# onsale.gg is a service that allows you to see when skins were last on sale and how 
+# likely they are to be on sale in the near future.
+# TODO:
+# Create database
+# Fill database
+# Code DB layer (objects, JDBC?)
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
