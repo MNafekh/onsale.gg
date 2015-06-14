@@ -1,8 +1,8 @@
-# onsale.gg is a service that allows you to see when skins were last on sale and how 
-# likely they are to be on sale in the near future.
+# onsale.gg is a service that allows you to see when skins were last on sale and how likely they are to be on sale in the near future.
 # TODO:
 # Fill database
-# Code DB layer (objects, JDBC?)
+# - Currently writing PHP script to get last sale dates from lolking
+# Start working on pages for champions and skins
 # 
 # 
 # 
