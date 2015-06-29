@@ -2,7 +2,7 @@
 # TODO:
 # Fill database
 # - Currently writing PHP script to get last sale dates from lolking (DONE)
-# - Write script to order splash numbers by date, might require manual adjustments
+# - Write script to order splash numbers by date (DONE), requires manual adjustments
 # Start working on pages for champions and skins
 # 
 # 
