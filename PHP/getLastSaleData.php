@@ -92,7 +92,7 @@
         // Get last time champ was on sale and update champions table
         $champDateSQL = "UPDATE champions SET release_date = STR_TO_DATE('" . $champReleaseDate . "', 
             '%m/%d/%Y'),last_on_sale=STR_TO_DATE('" . $champLastSale . "','%m/%d/%Y') WHERE champion_id=" . $champId;
-        //echo $champDateSQL . "\n";
+        echo $champDateSQL . "\n";
         /*
         if ($conn->query($champDateSQL) === TRUE) {
             echo "Records updated successfully";
